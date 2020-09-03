@@ -1,4 +1,4 @@
-// hello world.cpp: îïðåäåëÿåò òî÷êó âõîäà äëÿ êîíñîëüíîãî ïðèëîæåíèÿ.
+// hello world.cpp
 //
 
 #include "stdafx.h"
@@ -7,7 +7,7 @@
 
 int main()
 {
-	printf("Hello wordld");
+	printf("Hello wordld\n");
 	printf("A=");
 	int a;
 	scanf("%d", &a);
