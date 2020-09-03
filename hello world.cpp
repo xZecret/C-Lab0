@@ -7,7 +7,7 @@
 
 int main()
 {
-	printf("Hello wordld\n");
+	printf("Hello world\n");
 	printf("A=");
 	int a;
 	scanf("%d", &a);
