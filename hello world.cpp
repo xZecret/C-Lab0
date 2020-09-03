@@ -1,4 +1,4 @@
-// hello world.cpp: определяет точку входа для консольного приложения.
+// hello world.cpp: Г®ГЇГ°ГҐГ¤ГҐГ«ГїГҐГІ ГІГ®Г·ГЄГі ГўГµГ®Г¤Г  Г¤Г«Гї ГЄГ®Г­Г±Г®Г«ГјГ­Г®ГЈГ® ГЇГ°ГЁГ«Г®Г¦ГҐГ­ГЁГї.
 //
 
 #include "stdafx.h"
@@ -7,7 +7,7 @@
 
 int main()
 {
-	printf("Hello wordld\n");
+	printf("Hello wordld");
 	printf("A=");
 	int a;
 	scanf("%d", &a);
